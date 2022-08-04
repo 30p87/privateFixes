@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "privatefixes",
+    "name": "Private fixes",
+    "description": "Private fixes for the server of a friend and me",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "30p87.ddns.net",
+    "updateUrl": "",
+    "authorList": ["30p87"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
